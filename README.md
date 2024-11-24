@@ -3,7 +3,7 @@
 
 I'm Rafael Zanovelo Perin from Brazil.  I've been working as a Math Teacher in Bento Gonçalves county school since 2021.
 
-I'm currently doing a web developer course.
+I'm currently doing a web developer course (PHP).
 
 <p align='center'> 
    <a href="https://www.linkedin.com/in/rafaelzperin/">
