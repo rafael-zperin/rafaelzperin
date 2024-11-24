@@ -10,7 +10,7 @@ I'm currently doing a web developer course.
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <p align='center'> 
    <a href="http://lattes.cnpq.br/4184347921178166">
-       <img src="https://www.foar.unesp.br/Home/Biblioteca/identificadoresdepesquisadores/lattes.png" width="50" />
+       <img src="https://www.foar.unesp.br/Home/Biblioteca/identificadoresdepesquisadores/lattes.png" width="100" />
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:rafael-perin@hotmail.com'>rafael.perin@hotmail.com</a>
