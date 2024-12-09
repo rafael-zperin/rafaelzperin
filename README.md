@@ -13,5 +13,5 @@ I'm currently doing a web developer course (PHP).
        <img src="https://www.foar.unesp.br/Home/Biblioteca/identificadoresdepesquisadores/lattes.png" width="150" />
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:rafael-perin@hotmail.com'>rafael.perin@hotmail.com</a>
+   📫 How to reach me: <a href='mailto:rafael-perin@hotmail.com'>rafael-perin@hotmail.com</a>
 </p>
